@@ -40,9 +40,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.Extensions.Configuration": {
+            "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
