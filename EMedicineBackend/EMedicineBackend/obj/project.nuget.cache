@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2pp2I8MHaEuLpoQt/KmjCMlppdMv2ImOZZJ1+ptRR2K2e3lOy3YA8SJJSHh3LF7/3MmwSnfdfANtpXHrZ6Qsw==",
+  "success": true,
+  "projectFilePath": "E:\\C# and .Net Prcatices\\.NET CORE\\E-commerce Web Application Using ASP.NET Core API With React JS And SQL Server\\EMedicineBackend\\EMedicineBackend\\EMedicineBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanukshi\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Thanukshi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Thanukshi\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

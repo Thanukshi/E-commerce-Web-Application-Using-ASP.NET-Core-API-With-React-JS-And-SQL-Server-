@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C# and .Net Prcatices\\.NET CORE\\E-commerce Web Application Using ASP.NET Core API With React JS And SQL Server\\EMedicineBackend\\EMedicineBackend\\EMedicineBackend.csproj": {}
+  },
+  "projects": {
+    "E:\\C# and .Net Prcatices\\.NET CORE\\E-commerce Web Application Using ASP.NET Core API With React JS And SQL Server\\EMedicineBackend\\EMedicineBackend\\EMedicineBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# and .Net Prcatices\\.NET CORE\\E-commerce Web Application Using ASP.NET Core API With React JS And SQL Server\\EMedicineBackend\\EMedicineBackend\\EMedicineBackend.csproj",
+        "projectName": "EMedicineBackend",
+        "projectPath": "E:\\C# and .Net Prcatices\\.NET CORE\\E-commerce Web Application Using ASP.NET Core API With React JS And SQL Server\\EMedicineBackend\\EMedicineBackend\\EMedicineBackend.csproj",
+        "packagesPath": "C:\\Users\\Thanukshi\\.nuget\\packages\\",
+        "outputPath": "E:\\C# and .Net Prcatices\\.NET CORE\\E-commerce Web Application Using ASP.NET Core API With React JS And SQL Server\\EMedicineBackend\\EMedicineBackend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thanukshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
